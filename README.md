@@ -18,3 +18,6 @@ https://huggingface.co/datasets/psmathur/alpaca_orca<br>
 Latent Dirichlet Allocation
 
 ### Bert Topic
+
+## Topic Visualization
+![Topic Visualization](./topic_vis.png)
